@@ -1,3 +1,45 @@
 ---
 Style/GuardClause:
   Enabled: false
+
+Metrics/LineLength:
+  Max: 140
+
+Metrics/MethodLength:
+  Max: 30
+
+Layout/SpaceBeforeFirstArg:
+  Enabled: false
+
+Metrics/LineLength:
+  Enabled: false
+
+Layout/EndOfLine:
+  Enabled: false
+
+Style/PercentLiteralDelimiters:
+  Enabled: false
+
+Style/SymbolArray:
+  Enabled: false
+
+Lint/StringConversionInInterpolation:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Naming/AccessorMethodName:
+  Enabled: false
+
+Metrics/BlockNesting:
+  Max: 4
+
+Performance/Casecmp:
+  Enabled: false
+
+Style/NumericLiterals:
+  Enabled: false
+
+Style/ModuleFunction:
+  Enabled: false
